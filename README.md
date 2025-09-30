@@ -7,6 +7,7 @@ Explain how you use the AI to solve the assignment. Put all ***your used queries
 
 AI were used to analyze errors and integrate the algorithm accurately.  
 AI used: Gemini
+
 Queries used: 
 "I'm getting this error: 'invalid operands to binary expression... (const QPoint' and 'const QPoint')' what code do I need to fix it?"
 "I'm getting an 'unknown type name' error for a class I defined; what's the correct way to forward-declare a class header in Qt C++?"
